@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CSE 118 Assignment 3</string>
+    <string name="status_textView_string"></string>
+    <string name="reset_button_string">Reset</string>
+    <string name="exit_button_string">Exit</string>
+
+    <string name="inactive_string">Hasn\'t budged an inch</string>
+    <string name="active_string">The phone has moved!</string>
+</resources>
